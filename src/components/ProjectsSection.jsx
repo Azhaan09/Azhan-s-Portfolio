@@ -15,7 +15,7 @@ const projects = [
       id: 2,
         title: "NewsPerk",
         description: "NewsPerk is a sleek news app built with JavaScript, React, CSS, and Node.js. Users can browse headlines by category and click through to full articles for deeper reading and discovery.",
-        image: "/projects/project2.png",
+        image: "/projects/project1.png",
         tags: ["Javascript","React", "CSS", "NewsAPI", "Fetch API"],
         demoUrl: "https://news-perk.vercel.app/",
         githubUrl: "https://github.com/Azhaan09/NewsPerk.git"
