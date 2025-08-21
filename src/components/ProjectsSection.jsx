@@ -4,28 +4,28 @@ import React from 'react'
 const projects = [
     {
       id: 1,
-        title: "Project1",
+        title: "Connect",
         description: "A beautiful landing page using react and tailwind.",
         image: "/projects/project1.jpeg",
-        tags: ["React", "Tailwind"],
-        demoUrl: "#",
-        githubUrl: "#"
+        tags: ["Typescript","React", "TailwindCSS", "supabase", "tanstack/react-query"],
+        demoUrl: "https://connect-through.vercel.app/",
+        githubUrl: "https://github.com/Azhaan09/Connect-a-social-media-application.git"
     },
     {
       id: 2,
-        title: "Project2",
+        title: "NewsPerk",
         description: "A beautiful landing page using react and tailwind 2.",
         image: "/projects/project2.jpeg",
-        tags: ["React", "Tailwind"],
-        demoUrl: "#",
-        githubUrl: "#"
+        tags: ["Javascript","React", "CSS", "NewsAPI", "Fetch API"],
+        demoUrl: "https://news-perk.vercel.app/",
+        githubUrl: "https://github.com/Azhaan09/NewsPerk.git"
     },
     {
       id: 3,
-        title: "Project3",
+        title: "Azhan's Portfolio",
         description: "A beautiful landing page using react and tailwind 3.",
         image: "/projects/project3.jpeg",
-        tags: ["React", "Tailwind"],
+        tags: ["Javascript","React", "TailwindCSS", "Lucide-react", "radix-ui/react-toast"],
         demoUrl: "#",
         githubUrl: "#"
     },
