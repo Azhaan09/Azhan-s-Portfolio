@@ -5,8 +5,8 @@ const projects = [
     {
       id: 1,
         title: "Connect",
-        description: "A beautiful landing page using react and tailwind.",
-        image: "/projects/project1.jpeg",
+        description: "Connect is a modern social media app built with TypeScript, React, TailwindCSS, and Supabase. Users can create posts, form communities, and engage through likes, dislikes, and comments—simple, expressive, and scalable.",
+        image: "/projects/project2.png",
         tags: ["Typescript","React", "TailwindCSS", "supabase", "tanstack/react-query"],
         demoUrl: "https://connect-through.vercel.app/",
         githubUrl: "https://github.com/Azhaan09/Connect-a-social-media-application.git"
@@ -14,8 +14,8 @@ const projects = [
     {
       id: 2,
         title: "NewsPerk",
-        description: "A beautiful landing page using react and tailwind 2.",
-        image: "/projects/project2.jpeg",
+        description: "NewsPerk is a sleek news app built with JavaScript, React, CSS, and Node.js. Users can browse headlines by category and click through to full articles for deeper reading and discovery.",
+        image: "/projects/project2.png",
         tags: ["Javascript","React", "CSS", "NewsAPI", "Fetch API"],
         demoUrl: "https://news-perk.vercel.app/",
         githubUrl: "https://github.com/Azhaan09/NewsPerk.git"
@@ -23,11 +23,11 @@ const projects = [
     {
       id: 3,
         title: "Azhan's Portfolio",
-        description: "A beautiful landing page using react and tailwind 3.",
-        image: "/projects/project3.jpeg",
+        description: "My portfolio showcases sleek, responsive UI built with JavaScript, React, TailwindCSS, and Radix UI Toasts—merging expressive design with smooth interactions for a polished, emotionally intelligent user experience.",
+        image: "/projects/project3.png",
         tags: ["Javascript","React", "TailwindCSS", "Lucide-react", "radix-ui/react-toast"],
-        demoUrl: "#",
-        githubUrl: "#"
+        demoUrl: "https://azhan-s-portfolio-ashy.vercel.app/",
+        githubUrl: "https://github.com/Azhaan09/Azhan-s-Portfolio.git"
     },
 ]
 
